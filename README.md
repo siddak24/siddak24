@@ -1,85 +1,56 @@
-# Hey there, I'm Meharjot! 👋🚀
+<h1 align="center">Hey, I'm Meharjot 👋⚽</h1>
 
-### 💻 CSE Student | Java Enthusiast | Web Explorer
+<p align="center">
+  <b>3rd year CSE student · Java backend guy · Daily LeetCode grinder 🔥</b>
+</p>
 
-I'm a Computer Science & Engineering student who loves building things with code.  
-Always curious, always learning — from backend logic to frontend magic! ✨
+<p align="center">
+  <a href="https://www.linkedin.com/in/meharjot-singh-2405mso/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/siddak24/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="/cdn-cgi/l/email-protection#9cf1f9f4fdeef6f3e8aea8aca9dcfbf1fdf5f0b2fff3f1">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🧠 About Me
-
-- 🎓 Studying **Computer Science & Engineering**
-- ☕ Addicted to **Java** (the language, not just the coffee)
-- 🌐 Exploring **Web Development** on the side
-- 🎮 Fun fact: I debug code better at night 🌙
-- 📫 Reach me at: **siddak24** on GitHub
+🎓 &nbsp;3rd year B.Tech CSE @ BVCOE Pune &nbsp;·&nbsp; 8.5 CGPA
+🏗️ &nbsp;Into backend dev — Spring Boot, REST APIs, clean architecture
+🧩 &nbsp;Solving DSA problems daily on LeetCode — 150+ and counting
+⚽ &nbsp;Striker for the college football team, represented Ujjain at district level
+🎯 &nbsp;Looking for a Backend / SDE Intern role in 2026
+☕ &nbsp;Fun fact: I debug better at 2am
 
 ---
 
-## 🛠️ Languages & Tools
-
-### Languages I speak (to computers 😄)
+## 🛠️ What I work with
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Tools I use
-
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 LeetCode — Daily grind, no days off
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddak24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddak24&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddak24&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/siddak24/siddak24/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🎯 Current Goals
-
-- 🔥 Master **Data Structures & Algorithms** in Java
-- ⚛️ Get better at **React** & build cool projects
-- 🌍 Contribute to **Open Source**
-- 💼 Land an amazing **internship / job**
-
----
-
-## 🤝 Let's Connect!
-
-<p align="center">
-  <a href="https://github.com/siddak24">
-    <img src="https://img.shields.io/badge/GitHub-siddak24-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://leetcode.com/u/siddak24/">
+    <img src="https://leetcard.jacoblin.cool/siddak24?theme=dark&font=Nunito&ext=heatmap"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddak24&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=siddak24&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </p>
 
-<p align="center">⭐ <i>If you like what you see, drop a star on a repo!</i> ⭐</p>
+<p align="center"><i>"Write code that works.
